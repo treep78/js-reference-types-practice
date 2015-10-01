@@ -10,7 +10,7 @@ Fork, clone, branch (practice) and npm install
 
 ## Activity:
 
-- Create a function to calculate the number of stops between stations on the "MBTA". Write additional functions used by this function as needed.
+- Create a function in `lib/mbta.js` to calculate the number of stops between stations on the "MBTA". Write additional functions used by this function as needed.
 - The function takes the line and stop that a rider is getting on at and the line and stop that user is getting off at and **returns the total number of stops for the trip**.
 
 There are 3 subway lines:
