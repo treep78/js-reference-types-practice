@@ -6,7 +6,7 @@ Fork, clone, branch (practice) and npm install
 
 ## Objectives:
 - Practice with functions, arrays, and properties of an object literal.
-- You may submit a pull request for this practive, but it is not required.
+- You may submit a pull request for this practice, but it is not required.
 
 ## Activity:
 
