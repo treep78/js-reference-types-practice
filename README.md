@@ -1,4 +1,6 @@
-#Title: MBTA Homework
+![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
+
+# MBTA practice
 
 ## To start
 
@@ -11,7 +13,7 @@ Fork, clone, branch (practice) and npm install
 ## Activity:
 
 - Create a function in `lib/mbta.js` to calculate the number of stops between stations on the "MBTA". Write additional functions used by this function as needed.
-- The function takes the line and stop that a rider is getting on at and the line and stop that user is getting off at and **returns the total number of stops for the trip**.
+- The function takes the line and stop that a rider is getting on at and the line and stop that a rider is getting off at and **returns the total number of stops for the trip**.
 
 There are 3 subway lines:
 
@@ -34,7 +36,6 @@ Run `grunt test`.
 
 ## Bonus
 
-Think about adding Haymarket to the Green line.  Try to find a solution for multiple intersections.  Is there a way to decide if a particular solution is "correct"?
+Think about adding Haymarket before Government Center on the Green line.  Try to find a solution for multiple intersections.  Is there a way to decide if a particular solution is "correct"?
 
 This bonus is completely optional and does not have tests, yet.
-
