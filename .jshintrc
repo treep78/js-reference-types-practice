@@ -4,7 +4,7 @@
   "strict": "global",
   "undef": true,
   "sub": true,
-  "esnext": true,
+  "esversion": 6,
   "quotmark": true,
   "devel": true,
   "node": true,
