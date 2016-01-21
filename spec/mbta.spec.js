@@ -1,6 +1,6 @@
 'use strict';
 
-var mbta = require('../lib/mbta.js');
+const mbta = require('../lib/mbta.js');
 
 describe('mbta', function() {
 
