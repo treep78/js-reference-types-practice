@@ -7,7 +7,7 @@
 Fork, clone, branch (practice) and npm install
 
 ## Objectives:
-- Practice with functions, arrays, and properties of an object literal.
+- Practice with functions, lists (arrays), and  dictionaries (object literal).
 - You may submit a pull request for this practice, but it is not required.
 
 ## Activity:
@@ -30,7 +30,7 @@ Run `grunt test`.
 
 * Assume good input.  Your function need not check the validity of the line or stop.
 * Consider diagramming the lines by sketching out the subway lines and their stops and intersection.
-* Subway lines are properties in an object literal (hashmap), while the values are an array of all the stops on each line.
+* Subway lines are keys in a dictionary (object literal), while the values are a list (array) of all the stops on each line.
 * The key to the lab is to find the __intersection__ of the lines at *Park Street*.
 * Solve an easier problem first.
 
